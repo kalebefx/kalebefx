@@ -1,22 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a192f,100:112240&height=220&section=header&text=Kalebe+Xavier&fontSize=72&fontColor=64ffda&animation=fadeIn&fontAlignY=38&desc=Backend+Developer+·+Java+%26+Spring+Boot&descAlignY=58&descSize=18&descColor=8892b0" />
-</div>
 
-<br/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██╗  ██╗ █████╗ ██╗     ███████╗██████╗ ███████╗              ║
+║   ██║ ██╔╝██╔══██╗██║     ██╔════╝██╔══██╗██╔════╝              ║
+║   █████╔╝ ███████║██║     █████╗  ██████╔╝█████╗                ║
+║   ██╔═██╗ ██╔══██║██║     ██╔══╝  ██╔══██╗██╔══╝                ║
+║   ██║  ██╗██║  ██║███████╗███████╗██████╔╝███████╗              ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝              ║
+║                                                                  ║
+║              Backend Developer · Java & Spring Boot             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=620&lines=Engenharia+de+Software+%40+FAMA+%F0%9F%8E%93;Backend+Java+%2F+Spring+Boot;Construindo+projetos+reais+desde+o+2%C2%BA+sem+%F0%9F%9A%80;Cada+bug+%C3%A9+uma+aula." />
-  </a>
-</div>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.%22;%22Then%2C+write+the+code.%22;%E2%80%94+John+Johnson)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=kalebefx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
-
-### `whoami`
+```
+kalebefx@github:~$ cat whoami.sh
+```
 
 ```java
 public class Kalebe {
@@ -36,16 +46,16 @@ public class Kalebe {
     };
 
     public String getPhilosophy() {
-        return "Aprendo fazendo. Cada bug é uma aula.";
+        return "First, solve the problem. Then, write the code.";
     }
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## Stack
+```
+kalebefx@github:~$ ./stack.sh
+```
 
 <div align="center">
 
@@ -60,40 +70,59 @@ public class Kalebe {
 
 ---
 
-## Projetos
+```
+kalebefx@github:~$ cat projects.log
+```
 
-<div align="center">
-
-| | Projeto | O que é | Stack |
-|---|--------|---------|-------|
-| 💈 | **[Eula Moraes Studio](https://github.com/kalebefx)** | Sistema de gestão para salão de beleza — agendamento, clientes, serviços | Spring Boot · Angular · PostgreSQL |
-| 📈 | **[Sistema de Autoevolução](https://github.com/kalebefx)** | Gestão de vida pessoal — hábitos, rotina, metas, estudos em um só lugar | Spring Boot · React · PostgreSQL |
-
-</div>
+```
++------------------------------------------------------------------+
+| PROJECT              | DESCRIPTION                   | STATUS   |
++------------------------------------------------------------------+
+| 💈 Eula Moraes Studio | Gestão de salão de beleza     | 🟡 Dev   |
+| 📈 Autoevolução       | Gestão de vida pessoal        | 🟡 Dev   |
++------------------------------------------------------------------+
+```
 
 ---
 
-## GitHub
+```
+kalebefx@github:~$ ./stats.sh
+```
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebefx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kalebefx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebefx&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalebefx&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalebefx&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
+
+```
+kalebefx@github:~$ ./snake.sh
+```
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/kalebefx/kalebefx/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
+  <img src="https://raw.githubusercontent.com/kalebefx/kalebefx/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
+
+```
+kalebefx@github:~$ cat contact.txt
+```
+
+```
++----------------------------------+
+| 🔗 LinkedIn  → /in/kalebe-xavier |
+| 📧 Email     → kalebefx@gmail.com|
++----------------------------------+
+```
 
 <div align="center">
 
@@ -102,12 +131,9 @@ public class Kalebe {
 
 <br/>
 
-<sub>Goiás, Brasil · 2024</sub>
+```
+kalebefx@github:~$ exit
+// Goiás, Brasil · 2024
+```
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a192f,100:112240&height=100&section=footer&animation=fadeIn" />
 </div>
